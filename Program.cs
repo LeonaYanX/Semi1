@@ -61,3 +61,9 @@
 
 // Console.WriteLine("Сум = "+ result+ " кнг");// Конкатенация
 // Console.WriteLine($"Сум = {result} кнг");// Интерполяция
+Console.WriteLine("Enter the number");
+int number = int.Parse(Console.ReadLine());
+for (int count = 2; count <= number; count += 2)
+        {
+            Console.Write($"{count}\t");
+        }

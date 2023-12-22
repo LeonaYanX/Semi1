@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\Semi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\Semi1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\Semi1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\Semi1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\Semi1.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\bin\Debug\net8.0\Semi1.exe
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\bin\Debug\net8.0\Semi1.deps.json
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\bin\Debug\net8.0\Semi1.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\bin\Debug\net8.0\Semi1.dll
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\bin\Debug\net8.0\Semi1.pdb
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\Semi1.dll
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\refint\Semi1.dll
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\Semi1.pdb
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\Semi1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Semi1\Semi1\obj\Debug\net8.0\ref\Semi1.dll
